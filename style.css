@@ -1,0 +1,28 @@
+.container-fluid {
+    width: 90%;
+    background-color: aqua;
+}
+.image {
+    background-color: green;
+    height: 100px;
+    max-width: 500px;
+}
+.title {
+    background-color: blueviolet;
+    height: 100px;
+}
+.log {
+    background-color: yellow;
+    height: 100px;
+}
+nav {
+    background-color: aquamarine;
+}
+main {
+background-color: black;
+height: 400px;
+}
+aside {
+    background-color: orange;
+    height: 400px;
+}
